@@ -157,7 +157,7 @@ python -m http.server 8787
 
 | Thành viên | Vai trò | Nhánh GitHub | Phụ trách |
 |------------|---------|--------------|-----------|
-| **Trần Văn Đạt** | Trưởng nhóm | `dev-dat` | Kiến trúc hệ thống, core JS, dữ liệu, index.html |
+| **Trần Văn Đạt** | Trưởng nhóm | `dev-dat` | Kiến trúc hệ thống, core JS, dữ liệu, index.html,sửa và thêm các chức năng khi hoàn tất |
 | **Nguyễn Tiến Huy** | Thành viên | `dev-huy` | Auth, profile người dùng, admin panel |
 | **Phan Đức Thượng** | Thành viên | `dev-thuong` | Menu, giỏ hàng, thanh toán, đơn hàng, CSS responsive |
 
